@@ -5,5 +5,5 @@ Me chamo Patrick! Apesar de já estar envolvido no mundo da programação a algu
 ### Atualmente, trabalho com as seguintes feramentas: 
 
 #### Front-end
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="50">testse
 
